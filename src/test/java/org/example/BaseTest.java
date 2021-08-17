@@ -15,7 +15,7 @@ public class BaseTest extends Utils {
 
     @AfterMethod
     public void closeBrowser() {
-        //close browser
+        //close  current browser
         driver.quit();
     }
 }
