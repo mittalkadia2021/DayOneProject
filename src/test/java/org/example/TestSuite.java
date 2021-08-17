@@ -7,5 +7,6 @@ public class TestSuite extends BaseTest{
     public void user_Able_To_Open_ASDA_Website(){
 
         System.out.println("ASDA website is open");
+        System.out.println("Hello");
     }
 }
